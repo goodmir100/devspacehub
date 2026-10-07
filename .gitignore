@@ -1,0 +1,20 @@
+# Python / backend
+backend/venv/
+__pycache__/
+*.pyc
+backend/.env
+*.db
+
+# Node / frontend
+node_modules/
+frontend/dist/
+frontend/.env
+
+# Редакторы / ОС
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+.vercel
+.env*
